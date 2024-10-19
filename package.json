@@ -1,0 +1,11 @@
+{
+  "name": "canvas-dom",
+  "version": "1.0.0",
+  "main": "build/canvas-dom.min.js",
+  "scripts": {
+    "test": "npm i && npm run start"
+  },
+  "author": "Siyu1017",
+  "license": "MIT",
+  "description": ""
+}
